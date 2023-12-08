@@ -1,10 +1,16 @@
 
 # Привет, меня зовут Константин!
+---
+Занимаюсь вёрсткой сайтов более 2-х лет.
 
+Род занятий:
+- Вёрстка адаптивная, кроссбраузерная.
+- Анимация сайтов с помощью CSS и JS
 ---
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MengHao0)
+###  Как связаться со мной: 
+[![Telegram Badge](https://img.shields.io/badge/-ZhmurovskiyKonstantin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MengHao0)
 
 ---
 
