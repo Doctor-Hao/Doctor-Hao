@@ -1,15 +1,6 @@
 
 # Привет -_-
 ---
-Знание технологий: HTML(HTML5), CSS(CSS3), SASS, Flexbox, Gulp, JS, Vue
-
-Знание методологий БЭМ и применение их в разработке для повышения масштабируемости и читаемости кода.
-Опыт работы с Git, для совместной разработки и управления кодом.
-Понимание основных принципов разработки UI/UX и способность применять их на практике.
-
-Работал с фреймворками Django, Vue
----
-
 
 ###  Как связаться со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-ZhmurovskiyKonstantin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MengHao0)
