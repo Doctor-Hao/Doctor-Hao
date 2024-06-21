@@ -11,7 +11,7 @@
 
 ### 💻 Фронтенд
 
-![Tech stack](https://skillicons.dev/icons?i=typescript,javascript,react,vue,tailwind,html,css)
+![Tech stack](https://skillicons.dev/icons?i=typescript,javascript,vue,react,tailwind,vuetify,html,css)
 
 ---
 
