@@ -1,6 +1,4 @@
-
 # Привет, я Meng Hao 👋
----
 
 ## ✨ Навыки
 
@@ -12,7 +10,7 @@
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,webstorm,pycharm,windows,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions,npm,yarn)
 
-###  Как связаться со мной: 
+##  Как связаться со мной: 
 [![Telegram Badge](https://img.shields.io/badge/-ZhmurovskiyKonstantin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MengHao0)
 
 
