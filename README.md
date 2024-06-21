@@ -11,13 +11,13 @@
 
 ### 💻 Фронтенд
 
-![Tech stack](https://skillicons.dev/icons?i=typescript,javascript,regex,electron,tauri,react,svelte,tailwind,vue,html,css,md)
+![Tech stack](https://skillicons.dev/icons?i=typescript,javascript,react,vue,tailwind,html,css)
 
 ---
 
 ### 🛠 Инструменты
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,webstorm,windows,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions,npm,obsidian,postman,sentry)
+![Tools I use](https://skillicons.dev/icons?i=vscode,webstorm,windows,rollup,vite,vercel,netlify,cloudflare,git,github,discord,githubactions,npm,yarn)
 
 ---
 
