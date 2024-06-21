@@ -17,7 +17,7 @@
 
 ### 🛠 Инструменты
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,webstorm,windows,rollup,vite,vue-cli,vercel,netlify,cloudflare,git,github,discord,githubactions,npm,yarn)
+![Tools I use](https://skillicons.dev/icons?i=vscode,webstorm,windows,rollup,vite,vuecli,vercel,netlify,cloudflare,git,github,discord,githubactions,npm,yarn)
 
 ---
 
